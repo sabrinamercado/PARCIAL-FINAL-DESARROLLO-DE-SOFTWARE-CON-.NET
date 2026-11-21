@@ -109,8 +109,8 @@ dotnet run
 | # | Prueba | Evidencia | Resultado |
 |---|---|---|---|
 | 1 | Registro | ![registro](evidencias/01-registro.png) | Se agregó un libro y apareció en la lista con mensaje de éxito. |
-| 2 | Consulta | ![consulta](evidencias/02-consulta.png) | Se muestran todos los libros almacenados. |
-| 3 | Actualización | ![actualizacion](evidencias/03-actualizacion.png) | Se cambió el estado de un libro y se guardó. |
+| 2 | Consulta | ![consulta](evidencias/02-consulta y 03 - actualizacion.png) | Se muestran todos los libros almacenados. |
+| 3 | Actualización | ![actualizacion](evidencias/02-consulta y 03 - actualizacion.png) | Se cambió el estado de un libro y se guardó. |
 | 4 | Eliminación | ![eliminacion](evidencias/04-eliminacion.png) | El libro eliminado dejó de aparecer. |
 | 5 | Validación | ![validacion](evidencias/05-validacion.png) | Con el título vacío se muestra el error y el programa no se cierra. |
 | 6 | Persistencia | ![persistencia](evidencias/06-persistencia.png) | Tras cerrar y reabrir, los libros siguen disponibles. |
