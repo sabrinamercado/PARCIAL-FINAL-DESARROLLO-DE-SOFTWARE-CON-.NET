@@ -114,6 +114,7 @@ dotnet run
 | 4 | Eliminación | ![eliminacion](evidencias/04-eliminacion.png) | El libro eliminado dejó de aparecer. |
 | 5 | Validación | ![validacion](evidencias/05-validacion.png) | Con el título vacío se muestra el error y el programa no se cierra. |
 | 6 | Persistencia | ![persistencia](evidencias/06-persistencia.png) | Tras cerrar y reabrir, los libros siguen disponibles. |
+| 7 | Video | (https://www.loom.com/share/e3d85da0d9924281b8bec0f230e22d27) | Video que muestra cada una de las pruebas. |
 
 ## 9. Problemas encontrados y soluciones
 
